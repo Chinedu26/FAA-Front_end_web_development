@@ -1,1 +1,0 @@
-This repository contains various projects in my web development course.
